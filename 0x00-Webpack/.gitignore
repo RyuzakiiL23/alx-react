@@ -1,4 +1,5 @@
 /task*/node_modules
 /task*/dist/main.js
 /task*/dist/*LICENSE*
+/task*/public/*LICENSE*
 /task*/package-lock.json
