@@ -1,0 +1,27 @@
+.App {
+  margin: 0;
+  font-family: 'Rubik', sans-serif;
+}
+.App-header {
+  display: flex;
+  align-items: center;
+  border-bottom: solid 2px red;
+  color: #e0354b;
+}
+
+.App-logo {
+  height: 200px;
+}
+
+.App-footer {
+  position: absolute;
+  width: 98vw;
+  display: flex;
+  justify-content: center;
+  bottom: 0;
+  border-top: solid 2px red;
+}
+
+.App-body {
+  margin: 40px;
+}
