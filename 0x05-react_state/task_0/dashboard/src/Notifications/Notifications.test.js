@@ -167,3 +167,4 @@ it("verify that clicking on the button calls handleHideDrawer", () => {
 
   jest.restoreAllMocks();
 });
+
